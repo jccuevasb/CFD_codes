@@ -1,4 +1,4 @@
-# CFD_codes
+# CFD_Codes
 CFD codes in different languages
 
 cpp: Program to compute the numerical solution of the Navier Stokes Equations 
